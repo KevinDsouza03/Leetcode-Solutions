@@ -4,19 +4,16 @@ class Solution:
         start = 0
         end = len(height)-1
         maximum = 0
-        flip = True
         while(end > start):
             if (min(height[end],height[start]) * (end-start) > maximum):
-                print(f"Curr Max{maximum} , we are at start{start} end{end}")
+                # print(f"Curr Max{maximum} , we are at start{start} end{end}")
                 maximum = min(height[end],height[start]) * (end-start)
-                print(f"New max{maximum} ")
+                # print(f"New max{maximum} ")
                 continue
             else:
                 if (height[end] > height[start]):
                     start += 1
-                    flip = False
                 else:
                     end -= 1
-                    flip = True
         return maximum
         
