@@ -14,10 +14,6 @@ class Solution:
         for i in range(len(nums)-1,-1,-1):
             rightEdges.update({i:temp})
             temp+= nums[i]
-        
-        print(leftEdges)
-        print(rightEdges)
-        
         for i in leftEdges.keys():
             if leftEdges[i] == rightEdges[i]:
                 return i
