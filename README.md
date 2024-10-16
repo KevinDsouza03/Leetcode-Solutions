@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Heap (Priority Queue)
 |  |
@@ -27,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
