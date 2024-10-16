@@ -15,4 +15,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Simulation
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
