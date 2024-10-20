@@ -19,11 +19,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Simulation
 |  |
@@ -34,4 +36,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0792-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
