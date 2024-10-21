@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -66,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
