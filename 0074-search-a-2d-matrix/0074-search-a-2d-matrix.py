@@ -10,14 +10,22 @@ class Solution:
 
         row = 0
 
+        top, bot = 0, len(matrix)-1
         
-        for i in range(0,len(matrix)):
-            if matrix[i][0] == target or matrix[i][len(matrix[i])-1] == target:
-                return True
-            if matrix[i][0] < target and matrix[i][len(matrix[i])-1] > target:
-                row = i
+        while top <= bot:
+            row = (top + bot) // 2
+            if target > matrix[row][-1]: #checking ending value, because if 20 > 7, we are too low
+                top = row + 1
+            elif target < matrix[row][0]: #check now if target is not bigger than ending, check if its less than the first value then we gotta go back up/lower rows
+                bot = row - 1
+            else:
+                #we are in the right place
                 break
+            
+        if not(top <= bot):
+            return False
         
+        row = (top + bot)//2
         l, r = 0, len(matrix[row])-1
 
         while l <= r:
