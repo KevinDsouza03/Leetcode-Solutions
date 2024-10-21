@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Array
 |  |
@@ -60,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/KevinDsouza03/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
